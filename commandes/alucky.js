@@ -14,14 +14,14 @@ zokou({
 }, async (_0x3258e7, _0x4c4732, _0x13b70c) => {
   console.log("Commande saisie !!!s");
   await _0x4c4732.sendMessage(_0x3258e7, {
-    'text': "Hello 👋\n\nClick on the button below to join the OFFICIAL *LUCKY-MD* WhatsApp Group",
+    'text': "Hello 👋\n\nClick on the button below to join the OFFICIAL *SK-MD* WhatsApp Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': "https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM",
+        'sourceUrl': "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628",
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
-        'title': "Join Our WhatsApp Group",
-        'body': "Click to join the official LUCKY-MD WhatsApp group!"
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
+        'title': "Join Our WhatsApp channel",
+        'body': "Click to join the official SK-MD WhatsApp group!"
       }
     }
   });
@@ -35,14 +35,14 @@ zokou({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *LUCKY-MD* WhatsApp Channel",
+    'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *SK-MD* WhatsApp Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f',
+        'sourceUrl': 'https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Join Our WhatsApp Channel",
-        'body': "Click to join the official LUCKY-MD WhatsApp channel!"
+        'body': "Click to join the official SK-MD WhatsApp channel!"
       }
     }
   });
@@ -56,14 +56,14 @@ zokou({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *LUCKY-MD* Owner",
+    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *SK-MD* Owner",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https:// wa.me/255752593977',
+        'sourceUrl': 'https:// wa.me/923176699066',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Join Our Developer Place",
-        'body': "Click to join the official LUCKY-MD Owner Inbox!"
+        'body': "Click to join the official SK-MD Owner Inbox!"
       }
     }
   });
@@ -77,14 +77,14 @@ zokou({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Facebook Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *SHAHZAR* Facebook Page",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.facebook.com/profile.php?id=61553209932337',
+        'sourceUrl': 'https://www.facebook.com/profile.php?id=61553209932337https://www.facebook.com/share/15VrVmarRZ/',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Follow Facebook Page 📄",
-        'body': "Click to join the official FREDIETECH Facebook Page!"
+        'body': "Click to join the official SHAHZAR Facebook Page!"
       }
     }
   });
@@ -103,7 +103,7 @@ zokou({
       'externalAdReply': {
         'sourceUrl': 'https://www.instagram.com/fredi.simba.tz',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Follow Instagram Page 📄",
         'body': "Click to join the official FREDIETECH Instagram Page!"
       }
@@ -124,7 +124,7 @@ zokou({
       'externalAdReply': {
         'sourceUrl': 'https://www.threads.net/@fredi.simba.tz',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Follow Threads Page 📄",
         'body': "Click to join the official FREDIETECH Threads Page!"
       }
@@ -145,7 +145,7 @@ zokou({
       'externalAdReply': {
         'sourceUrl': 'https://www.tiktok.com/@fredietech',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Follow TikTok Page 📄",
         'body': "Click to join the official FREDIETECH TikTok Page!"
       }
@@ -161,14 +161,14 @@ zokou({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Join the OFFICIAL *LUCKY_MD* Telegram Group",
+    'text': "Hello 👋\n\nClick on the photo below to Join the OFFICIAL *SHAHZAR_MD* Telegram Group",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://t.me/+u3zlb5y6OfxhOTdk',
+        'sourceUrl': 'https://t.me/diamondurdubooks1',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Join Telegram Group📄",
-        'body': "Click to join the official LUCKY_MD Telegram Group!"
+        'body': "Click to join the official SHAHZAR_MD Telegram Group!"
       }
     }
   });
@@ -208,7 +208,7 @@ zokou({
       'externalAdReply': {
         'sourceUrl': 'https://t.me/freditech',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/6qvxqw.jpg",
         'title': "Chating With Owner",
         'body': "Click to Contact the official FREDIETECH Telegram Inbox!"
       }
