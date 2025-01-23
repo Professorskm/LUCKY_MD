@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LUCKY MD 2025*`
+ *SK MD 2025*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -91,7 +91,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('  Lucky Md Is A Live 24hrs Enjoy To Use All Time🤗. ')
+repondre('  Shahzar Md Is A Live 24hrs Enjoy To Use All Time🤗. ')
 
 }
     });
