@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "LUCKY MD",
+        title: "SK MD",
         body: "Pambe Kwa, Frediezra",
-        thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+        thumbnailUrl: "https://files.catbox.moe/6qvxqw.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -80,7 +80,7 @@ D ☞ tiger 🐯 video logo
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `> *Downloaded by Lucky Planet*`,
+            caption: `> *Downloaded by shahzar planet*`,
           }, { quoted: ms });
         }
       }
