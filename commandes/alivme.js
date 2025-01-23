@@ -8,10 +8,10 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/0vv5mg.jpeg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/0vv5mg.jpeg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/6qvxqw.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://files.catbox.moe/6qvxqw.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/wdap4t.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -55,10 +55,10 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/0vv5mg.jpeg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/0vv5mg.jpeg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/6qvxqw.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://files.catbox.moe/6qvxqw.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/wdap4t.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -114,10 +114,10 @@ zokou(
     ];
 
     // Default profile picture URL
-    const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
+    const defaultProfilePic = "https://files.catbox.moe/6qvxqw.jpg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
+    const sourceUrl = "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628";
 
     try {
       // Randomly pick an audio file
@@ -135,7 +135,7 @@ zokou(
           isForwarded: true, // Marks the message as forwarded
           mentionedJid: [senderId], // Mention the sender
           externalAdReply: {
-            title: "🔥 ACHA USENGE LUCKY MD ACTIVE 🔥",
+            title: "🔥 ACHA USENGE SHAHZAR MD ACTIVE 🔥",
             body: `Message from 💥 ${userMention}\n💥 Visit the channel: ${sourceUrl}`,
             thumbnailUrl: defaultProfilePic, // Placeholder profile picture
             mediaType: 1, // Indicates this is an image
@@ -197,7 +197,7 @@ zokou(
     const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
+    const sourceUrl = "https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628";
 
     try {
       // Randomly pick an audio file
