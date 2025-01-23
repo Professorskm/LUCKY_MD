@@ -4,10 +4,10 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "channel", reaction: "💐", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Salut je m\'appelle *LUCKY_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
-    let d = ' developpé par *frediezra255*';
+    let z = 'Salut je m\'appelle *SHAHZAR_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
+    let d = ' developpé par *shahzarkhan*';
     let varmess = z + d;
-    var lien = 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f';  // Remplacez cet URL par le lien que vous souhaitez envoyer
+    var lien = 'https://whatsapp.com/channel/0029VazqWKKAojZ0Gl4rC628';  // Remplacez cet URL par le lien que vous souhaitez envoyer
     await zk.sendMessage(dest, { text: varmess + "\n" + lien });
 });
 
@@ -23,9 +23,9 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *LUCKY-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Fredi*'
+   let z ='Salut je m\'appelle *SHAHZAR-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *shahzar*'
       let varmess=z+d
-      var img='https://files.catbox.moe/xee8ol.jpg'
+      var img='https://files.catbox.moe/6qvxqw.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
